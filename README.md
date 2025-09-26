@@ -7,7 +7,7 @@ A modern, responsive Formula 1 fan resource website built with React, TypeScript
 
 > **Professional F1 Racing Hub featuring all 2025 drivers, cars, race calendar, and official merchandise shop**
 
-**Built by:** nikhil-newton | **Repository:** [GitHub](https://github.com/nikhil-newton/f1-racing-hub)
+**Built by:** nikhil-newton | **Repository:** [GitHub](https://github.com/nikhil-newton/f1-racing-hub) | **Contact:** 23MH1A4237@acoe.edu.in
 
 ## 🏁 Features
 
