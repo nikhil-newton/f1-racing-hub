@@ -2,6 +2,11 @@
 
 A modern, responsive Formula 1 fan resource website built with React, TypeScript, and Styled Components.
 
+## 🌐 Live Website
+**[🚀 View Live Site](https://vermillion-starburst-4cb7a2.netlify.app)**
+
+> **Professional F1 Racing Hub featuring all 2025 drivers, cars, race calendar, and official merchandise shop**
+
 ## 🏁 Features
 
 - **Interactive Homepage** with animated F1 car and dynamic statistics
