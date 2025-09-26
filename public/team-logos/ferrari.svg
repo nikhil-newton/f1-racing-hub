@@ -1,0 +1,5 @@
+<!-- Placeholder for Ferrari logo - Replace with your exact image -->
+<svg width="100" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="60" fill="#DC143C"/>
+  <text x="50" y="35" text-anchor="middle" fill="white" font-size="14">Ferrari Logo</text>
+</svg>
