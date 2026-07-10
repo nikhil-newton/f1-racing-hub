@@ -2,6 +2,20 @@
 
 A modern, responsive Formula 1 fan resource website built with React, TypeScript, and Styled Components.
 
+## 📖 Project Explanation
+
+F1 Racing Hub is a **front-end-only React application** that presents Formula 1 content (drivers, teams, cars, circuits, race calendar, news, and shop items) through a multi-page experience.
+
+At a high level:
+- **Entry point:** `src/main.tsx` boots the app and loads global styles/font assets.
+- **App shell:** `src/App.tsx` defines routes and wraps everything in a shared styled-components theme.
+- **Pages:** `src/pages/*` contains feature pages (Home, Drivers, Teams, Cars, Circuits, Calendar, Shop, Forum, and detail pages).
+- **Data layer:** `src/data/*` stores typed F1 datasets used by pages/components (no backend API required).
+- **Design system:** `src/styles/theme.ts` provides F1-inspired colors, layout helpers, and reusable styled UI primitives.
+- **Types & hooks:** `src/types/index.ts` defines domain models and `src/hooks/index.ts` includes reusable utility hooks.
+
+In short, this project is structured as a **theme-driven, route-based F1 information hub** built with reusable React components and local TypeScript data sources.
+
 ## 🌐 Live Website
 **[🚀 View Live Site](https://f1-racing-hub-nikhil.netlify.app/)**
 
